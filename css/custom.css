@@ -1,0 +1,78 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+	.jumbotron {
+		text-align: center;
+		font-weight: bolder;
+		color: white;
+		background-image: url('../images/Desert.jpg');
+		background-repeat: no-repeat;
+	}
+	
+	
+	.jumbotron p {
+	margin: 30px 10px;
+	font-size: 30px;
+	padding: 0px 20px;
+	}
+
+	.btn-lg {
+		font-size: 40px;
+		background-color: #141491;
+	}
+	
+	
+	.container {
+	text-align: center;
+	}
+	
+	.links p{
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom: 26px;
+	}
+	
+	.links h2, h3 {
+	font-weight: 300;
+	color: rgb(52, 71, 109);
+	text-align: center;
+	}
+	
+	.links h2{
+	padding-bottom: 40px;
+	font-size: 60px;
+	font-family: georgia, times, garamond;
+	}
+	
+	.links h3{
+	font-size: 36px;
+	}
+	
+	.links a {
+	font-weight: bold;
+	color: rgb(52, 71, 109);
+	text-align: center;
+	/* border: solid 1px black; */
+	}
+	
+	.links hr{
+	border-top: 1px solid #1B3474;
+	border-color: rgb 52, 71, 109;
+	width: 160px;
+	}
+	
+	.about p{
+	font-size: 20px;
+	text-align: left;
+	}
+	
+	.table {
+	font-size: 16px;
+	text-align: center;
+	}
+	
+	.footer {
+	background-color: grey;
+	}
+	
+	
+	
