@@ -1,4 +1,4 @@
 # Linda-Mull-Website
 My portofolio site
 
-This is my portfolio site that I built using Twitter Bootstrap.
+This site was built using Twitter Bootstrap.
